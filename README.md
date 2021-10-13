@@ -1,2 +1,2 @@
-# pyCode
-This is about lncRNA-disease-drug prediction in bioinformatics
+# gGATLDA
+This is about lncRNA-disease association prediction using deep learning.
