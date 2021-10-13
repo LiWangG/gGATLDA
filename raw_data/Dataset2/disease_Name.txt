@@ -1,0 +1,412 @@
+Metabolism Disorders
+Disorder of carbohydrate metabolism
+disease by infectious agent
+sensory system disease
+monogenic disease
+primary bacterial infectious disease
+orofacial cleft
+respiratory system cancer
+primary cutaneous amyloidosis
+organ system cancer
+cell type
+autosomal dominant disease
+autosomal genetic disease
+Diffuse Large B-Cell Lymphoma
+Pheochromocytoma
+0050815
+artery disease
+Disorder of pericardium
+peripheral artery disease
+Squamous cell carcinoma of tongue
+oral squamous cell carcinoma
+IMAGe syndrome
+synucleinopathy
+Medulloblastoma
+Myelodysplastic Syndrome
+hereditary ataxia
+SPINOCEREBELLAR ATAXIA 8
+developmental disorder of mental health
+specific developmental disorder
+Pervasive Development Disorder
+Autism Spectrum Disorders
+hypersensitivity reaction disease
+lymphoma
+Non-Hodgkin Lymphoma
+Benign Neoplasm
+immune system cancer
+cell type benign neoplasm
+organ system benign neoplasm
+endocrine organ benign neoplasm
+musculoskeletal system cancer
+sensory system cancer
+Pharyngeal Carcinoma
+integumentary system cancer
+Alexithymia
+Acquired Metabolic Diseases
+Seasonal Affective Disorder
+Ptosis
+Ohdo syndrome
+Acute Promyelocytic Leukemia
+Transient neonatal diabetes mellitus
+FEINGOLD SYNDROME
+Miller Dieker syndrome
+ATRICHIA WITH PAPULAR LESIONS
+Myeloid neoplasm
+muscular disease
+Bone Diseases
+bone remodeling disease
+Bone Resorption
+chromosomal disease
+physical disorder
+Albright's hereditary osteodystrophy
+Neural Tube Defects
+Childhood T Acute Lymphoblastic Leukemia
+Childhood B Acute Lymphoblastic Leukemia
+Retinitis Pigmentosa 11
+Intestinal Cancer
+Prostate carcinoma
+Prostate carcinoma
+Blepharophimosis
+Chronic leukemia (category)
+Prolymphocytic Leukemia
+Bacterial Infections
+Chronic Lymphocytic Leukemia
+Malignant neoplasm of stomach
+Retinitis Pigmentosa
+Intellectual Disability
+Pre-Eclampsia
+Alzheimer's Disease
+Glaucoma, Open-Angle
+Glaucoma, Primary Open Angle
+kidney failure
+hypertension
+tooth disease
+Intracranial Aneurysm
+Nephritis
+Membranous glomerulonephritis
+ovarian
+Malignant neoplasm of urinary bladder
+Esophageal carcinoma
+Sarcoma
+heart disease
+Endometriosis of ovary
+Osteoporosis
+Polycystic Ovary Syndrome
+Heart Neoplasm
+neonatal diabetes
+Cardiomyopathy in Duchenne muscular dystrophy
+Myopia
+Peripheral Nervous System Neoplasms
+Malignant Head and Neck Neoplasm
+Prader-Willi Syndrome
+Malignant Female Reproductive System Neoplasm
+allergic
+Neutropenia
+Paranoid Schizophrenia
+Atypical depressive disorder
+Male infertility
+Malaria
+leukemia
+Acute leukemia
+Huntington Disease
+cardiovascular system
+Neurodegenerative Disorders
+Agranulocytosis
+dementia
+intracranial arterial disease
+Malignant neoplasm of brain
+lung cancer
+Behcet Syndrome
+Hyperinsulinemic hypoglycemia
+KAWASAKI DISEASE, SUSCEPTIBILITY TO
+endometrial cancer
+Parasitic infection
+Plasmodium falciparum malaria
+Down Syndrome
+Disorder of endocrine pancreas
+Blindness
+Parkinson Disease
+Machado-Joseph Disease
+Autosomal dominant cerebellar ataxia
+disease of cellular proliferation
+prostatitis
+Russell-Silver syndrome
+Major Depressive Disorder
+1492
+reproductive system disorder
+Mental disorders
+mixed cell type cancer
+Head and Neck Carcinoma
+Urticaria
+cognitive disorder
+Mental Depression
+integumentary system disease
+Lymphadenitis
+breast cancer
+cancer
+Glaucoma
+musculoskeletal system
+Endocrine Gland Neoplasms
+Squamous cell carcinoma
+cardiovascular cancer
+Vascular Diseases;+Cardiovascular Diseases
+Thyroid Neoplasm
+Pericarditis
+Pancreatic carcinoma;+Pancreatic Neoplasm
+Abnormality of the urinary system
+malignant neoplasm of bone
+Hepatitis C
+melanoma
+Klinefelter Syndrome
+Reproductive System Neoplas  
+Atherosclerosis
+leiomyosarcoma
+Neoplasms, Connective Tissue
+Hyperinsulinism
+Malignant Placental Neoplasm
+Gestational choriocarcinoma
+Anxiety Disorders
+Communication Disorder
+Hepatitis B
+brain germinoma
+Carcinoma, Ovarian Epithelial
+ovarian neoplasm
+Nephroblastoma
+Eye Neoplasms
+colon cancer
+Hepatitis B;+Hepatitis C
+syndrome
+Female Reproductive System
+Arteriosclerotic cardiovascular disease
+Arteriosclerosis
+Multiple Sclerosis
+ovarian cancer
+Psychotic Disorders
+Basal cell carcinoma
+Hematologic Neoplasms
+opiate dependence
+Carcinoma of larynx
+pancreas
+laryngeal carcinoma
+autonomic nervous system neoplasm
+Malignant neoplasm of kidney
+transitional cell carcinoma
+2678
+parasitic protozoa infectious disease
+Endocrine System Diseases
+Endometrial Carcinoma
+Laryngeal Squamous Cell Carcinoma
+Endometriosis
+Immune System Diseases
+Glomerulonephritis
+Disorder of carbohydrate metabolism
+adenocarcinoma
+Malignant germ cell neoplasm
+testicular cancer
+Invasive Ductal Breast Carcinoma
+Invasive Ductal Breast Carcinoma
+Substance-Related Disorders
+carcinoma
+Glioblastoma
+Astrocytoma
+High grade glioma
+Nervous System Neoplasms
+Neoplasms, Germ Cell and Embryonal
+Hepatobiliary disease
+gastrointestinal system cancer
+Gallbladder Cancer
+Peripheral Nerve Sheath Neoplasm
+Demyelinating Diseases
+rhabdomyosarcoma
+Germinoma
+Teratoma
+Embryonal Carcinoma
+Central Nervous System
+Bipolar Disorder
+Mood Disorders
+bone inflammation disease
+Osteosarcoma
+Fibrosarcoma
+Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor
+Periodontal Diseases
+Coronary Artery Disease
+Skin carcinoma
+Breast Carcinoma
+Pancreatic Ductal Adenocarcinoma
+Cerebral arterial thrombosis
+meningioma
+Malignant neoplasm of liver
+Gestational Trophoblastic Neoplasms
+Choriocarcinoma
+Central Nervous System Neoplasms
+Aortic Aneurysm
+Uterine Cancer
+Skin Disease
+Gastric Adenocarcinoma
+Overnutrition
+esophagus squamous cell carcinoma
+Pituitary Adenoma
+male reproductive organ cancer
+insulinoma
+Lung Carcinoma
+Lung Squamous Cell Carcinoma
+Non-Small Cell Adenocarcinoma
+Non-Small Cell Adenocarcinoma
+Adrenocortical carcinoma
+Adrenal Gland Neoplasms
+Thyroid Gland Carcinoma
+thyroid gland papillary carcinoma
+Tuberculosis
+urinary system cancer
+disease
+Ovarian Carcinoma
+Bladder Urothelial Carcinoma
+Carcinoma of bladder
+Mouth Diseases
+skeletal muscle cancer
+Malignant neoplasm of muscle
+Pancreatic carcinoma
+trophoblastic neoplasm
+Liver diseases
+Agnosia
+Malignant neoplasm of skin
+Autoimmune Diseases
+Pseudohypoparathyroidism
+Glucose Metabolism Disorders
+Hyperglycemia 
+Hair Diseases
+Endometrial Stromal Sarcoma
+Myopathy
+Smooth Muscle Tumor
+cervical cancer
+Seminoma
+Renal Cell Carcinoma
+Renal carcinoma
+Clear Cell Renal Cell Carcinoma
+Hypotrichosis
+Biliary Tract Cancer
+Malignant neoplasm of retina
+Uremia
+prostate disease
+Infratentorial Neoplasms
+Multiple System Atrophy
+Disorder of male reproductive system
+Pilomyxoid astrocytoma
+Pilocytic Astrocytoma
+Pancreatic carcinoma
+BARRETT ESOPHAGUS/ESOPHAGEAL ADENOCARCINOMA
+Bone Marrow Neoplasms
+Bone Marrow Diseases
+Myelofibrosis due to another disorder
+Esophageal carcinoma
+thoracic cancer
+Plexiform Neurofibroma
+Secondary malignant neoplasm of pleura
+Endometrial Stromal Tumors
+hereditary Wilms tumor
+Aortic Diseases
+Infertility
+Human immunodeficiency virus (HIV)
+Eyelid Diseases
+cyclic hematopoiesis
+Sleep Disorders
+Small cell carcinoma of lung
+Schizophrenia
+Ovarian Insufficiency
+Stomach Carcinoma
+Head and Neck Squamous Cell Carcinoma
+Kidney Diseases
+Beckwith-Wiedemann Syndrome
+eye disease
+Adenocarcinoma of large intestine
+Retinal Diseases
+Testicular embryonal carcinoma
+Pituitary Adenoma
+adrenal medulla cancer
+Myocardial Infarction
+Panic Disorder
+Esophageal Diseases
+Leukopenia
+Gastric Cardia Carcinoma
+Gastric Cardia Adenocarcinoma
+genetic disease
+Acquired Immunodeficiency Syndrome
+Connective Tissue Diseases
+Overnutrition
+Inborn Errors of Metabolism
+adenoma
+muscle tissue disease
+muscle tissue disease
+Cerebrovascular accident
+tauopathy
+Hepatocellular Carcinoma
+Liver carcinoma
+Hepatoblastoma
+Embryonal Neoplasm
+disease of anatomical entity
+Mature B-Cell Neoplasm
+B-Cell Lymphomas
+Rheumatoid Arthritis
+hematopoietic system disease
+Malignant Pleural Mesothelioma
+Abnormality of the lymphatic system
+Retinoblastoma
+Neuroblastoma
+Aortic Aneurysm, Abdominal
+Gastrointestinal Disorder
+retinal cell cancer
+end stage renal disease
+Chronic Kidney Diseases
+Periodontitis
+Osteoarthritis
+Polycythemia
+retinal degeneration
+Arthritis
+Herpes zoster disease
+Myeloid Leukemia, Chronic
+Burkitt Lymphoma
+Malignant neoplasm of floor of mouth
+Nervous System Disease
+Malignant neoplasm of tongue
+Vasculitis
+Myeloid Leukemia
+Neurofibromatosis
+Dementia, Vascular
+Ecthyma, Contagious
+Salivary Gland Cancer
+Lupus Erythematosus
+Psoriasis
+Skin Melanoma
+metal metabolism disorder
+autosomal dominant polycystic kidney disease
+Narcolepsy
+Polycythemia Vera
+Parotid Gland Carcinoma
+Systemic Lupus Erythematosus
+Acute Myeloid Leukemia
+Amyloidosis
+Barrett's esophagus
+amino acid metabolic disorder
+Gastrointestinal Stromal Tumors
+colorectal cancer
+Cancer of Nasopharynx
+Hyperhomocysteinemia
+cleft lip
+viral infection
+Diabetes Mellitus
+Type 2 diabetes mellitus
+Acute myocardial infarction
+Leukocyte
+Multiple Myeloma
+neurofibroma
+type 1 diabetes mellitus
+Refractive Errors
+Alopecia
+Muscular Dystrophy
+lymph node
+Acute Lymphoblastic Leukemia
+Obesity
+Substance Dependence
+Drug Dependence
+Heroin Dependence
+Hypoglycemia
