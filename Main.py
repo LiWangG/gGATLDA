@@ -137,43 +137,7 @@ if __name__ == '__main__':
         np.save('results/log_truth_Dataset1_CV1.npy',np.array(truth))
         np.save('results/log_predict_Dataset1_CV1.npy',np.array(predict))
         torch.save(model,'model.pth')
-    else:
-        print("begin to predict")
-        u_features, v_features, net, labels, u_indices, v_indices, class_values,lncRNA_name,disease_name =load_predict_data(args.dataset)
-        all_indices = (u_indices, v_indices)
-        print(len(labels))
-        
-        all_graphs = extracting_subgraphs(net,all_indices,labels, hop, u_features, v_features, hop*2+1)
-        pred_loader = DataLoader(all_graphs, 1, shuffle=False, num_workers=0)
-        model=torch.load('model.pth')
-        
-        pred=torch.Tensor()
-        print(len(all_graphs),len(pred_loader),'begin predicting 1') 
-        model.eval()
-        torch.no_grad()
-        #model=model.to(device)
-        count=0
-        for data in pred_loader:
-            data=data.to(device)
-            out=model(data)
-            pred=torch.cat((pred,out),0)
-        pred=pred[:,1]
-        disease_id=192
-        labels = np.array(net[1:286,disease_id])
-        idx=np.where(labels == 0)[0]
-        result=[]
-        for i in range(len(pred)):
-            result.append([lncRNA_name[u_indices[i]],pred[i]])
-        topK_result=sorted(result, reverse=True,key=lambda a: a[1])
-        for i in range(15):
-             print(topK_result[i])
-        
-        workbook=xlwt.Workbook()
-        sheet=workbook.add_sheet('renal carcinoma')
-        for i in range(15):
-            sheet.write(i,0,topK_result[i][0])
 
-        workbook.save(r'top_K_result/renal carcinoma.xls')
 
         
     print("All end...")
